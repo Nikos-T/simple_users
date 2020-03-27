@@ -1,0 +1,4 @@
+org.no_ip.terzos.simple_users.dao
+org.no_ip.terzos.simple_users.model
+org.no_ip.terzos.simple_users.util
+org.no_ip.terzos.simple_users.web
